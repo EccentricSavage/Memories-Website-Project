@@ -1,6 +1,6 @@
 # About the Project
 
-This is a MERN project. The completed app will allow users to post and edit their "Memories" as well as like others, on a social media website.
+This is a MERN project. The completed app will allow users to post, edit and delete their "Memories" as well as like others, on a social media website.
 
 # Built With
 
