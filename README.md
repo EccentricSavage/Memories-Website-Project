@@ -13,6 +13,8 @@ This is a MERN project. The completed app will allow users to post and edit thei
 
 ## Prerequisites
 
+Node.js
+
 ## Installation
 
 Download all files and run the following line in both the server and client side to launch the app:
