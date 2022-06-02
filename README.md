@@ -24,6 +24,6 @@ npm i && npm start
 
 # Additional Information
 
-Currently, the adding of memories as well as the editing is functional.
+Currently, the adding of memories as well as the editing, deleting and liking is functional.
 The website is mobile responsive.
-Still a work in progress; more functionality to be added, such as the like function and users.
+Still a work in progress; more functionality to be added, such as a userbase.
