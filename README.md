@@ -17,7 +17,7 @@ Node.js
 
 ## Installation
 
-Download all files and run the following line in both the server and client side to launch the app:
+Download all files and run the following line in both the server and client directories to launch the app:
 ```
 npm i && npm start
 ```
